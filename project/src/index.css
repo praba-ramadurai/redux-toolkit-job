@@ -81,6 +81,9 @@ p {
   margin-bottom: 1.5rem;
   max-width: 40em;
 }
+.Toastify__toast {
+  text-transform: capitalize;
+}
 
 h1,
 h2,
